@@ -34,7 +34,7 @@ author:
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : Stephen Furse
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
@@ -73,7 +73,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
