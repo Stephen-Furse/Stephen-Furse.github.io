@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dungeon Divers"
+excerpt: "Procedural Generated Dungeon Diving Game<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This game was made as a project for a module pertaining to procedural generation and pathfinding within games. More specifically this game uses, graph procedural generation with A* pathfinding for the enemies.
