@@ -12,6 +12,6 @@ Welcome! I am Stephen, currently Studying Games Programming (BSC) at Anglia Rusk
 {% include base_path %}
 
 
-{% for post in site.portfolio limit:3 %}
+{% for post in site.portfolio limit:1 %}
   {% include archive-single.html %}
 {% endfor %}
