@@ -1,6 +1,6 @@
 ---
-title: "Super Market Showdown"
-excerpt: "Wave based fighting game with silly aspects<br/><img src='/images/500x300.png'>"
+title: "Banana Bonanza"
+excerpt: "Monkey Gambling game<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
